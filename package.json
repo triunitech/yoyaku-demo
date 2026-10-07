@@ -1,0 +1,23 @@
+{
+  "name": "triunitech-yoyaku-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "予約管理デモ（TRIUNITECH 自社制作のデモ。受託案件ではありません）",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "npx serve out",
+    "lint": "next lint",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "next": "^15.5.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
