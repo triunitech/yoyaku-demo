@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4 4 112 114">
+  <g transform="translate(60,36) scale(0.965) translate(-60,-36)">
+    <path d="M60 10 L110 36 L60 62 L10 36 Z" fill="#2aa562"/>
+    <path d="M30 46.4 L77.5 21.7 L87.5 26.9 L40 51.6 Z" fill="#ffffff"/>
+  </g>
+  <g transform="translate(35,74) scale(0.965) translate(-35,-74)">
+    <path d="M10 36 L60 62 L60 112 L10 86 Z" fill="#1a7f4b"/>
+    <g transform="matrix(1,0.52,0,1,0,0)" fill="#ffffff">
+      <rect x="30" y="30.8" width="10" height="47"/>
+    </g>
+  </g>
+  <g transform="translate(85,74) scale(0.965) translate(-85,-74)">
+    <path d="M60 62 L110 36 L110 86 L60 112 Z" fill="#0f5233"/>
+  </g>
+</svg>
