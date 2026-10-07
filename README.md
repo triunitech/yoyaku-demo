@@ -7,7 +7,7 @@
 「既存業務に合わせた小規模な Web システムを、どのような品質・進め方でお作りするか」を
 ご確認いただくための見本として公開しております。
 
-- デモ：（公開後に URL を記載）
+- デモ：https://demo.triunitech.com/
 - 技術：Next.js 15（App Router、静的エクスポート）／ React 19 ／ JavaScript
 - 外部ライブラリ：なし（Next.js・React のみ）
 
